@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"7559db31629684e5f31176d189a833ac","name":"case","statistic":{"failed":0,"broken":0,"skipped":0,"passed":4,"unknown":0,"total":4}},{"uid":"618bb2168ffd29519f63ba5f7bbc8ca5","name":"pytest_excel_allure.case","statistic":{"failed":0,"broken":0,"skipped":0,"passed":4,"unknown":0,"total":4}}]}
